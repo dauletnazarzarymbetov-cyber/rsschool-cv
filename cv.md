@@ -6,3 +6,6 @@
 6.None
 7.IT university
 8.C1 and IELTS 7.0
+init: create cv structure
+feat: add contacts section
+fix: correct formatting
